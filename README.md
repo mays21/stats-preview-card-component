@@ -10,6 +10,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mays21/stats-preview-card-component/](https://github.com/mays21/stats-preview-component/)
-- Live Site URL: [https://mays21.github.io/stats-preview-component/](https://mays21.github.io/stats-preview-component/)
+- Solution URL: [https://github.com/mays21/stats-preview-card-component](https://github.com/mays21/stats-preview-card-component/)
+- Live Site URL: [https://mays21.github.io/stats-preview-card-component/](https://mays21.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -38,6 +39,10 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Bootstrap
+
+### Useful resources
+
+- [CSS mix-blend-mode Property](https://www.w3schools.com/cssref/pr_mix-blend-mode.asp)
 
 ## Author
 
